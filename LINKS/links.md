@@ -1,3 +1,6 @@
+---
+permalink: LINKS/
+---
 
 ## Useful Links
 
